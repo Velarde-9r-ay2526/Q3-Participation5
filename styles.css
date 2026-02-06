@@ -1,0 +1,18 @@
+.container {
+
+    border:3px solid burlywood;
+    background-color: beige;
+    padding: 10px;
+    margin: 0px auto;
+
+    text-align: center;
+
+}
+
+body {
+
+
+    background-image: url(https://image.slidesdocs.com/responsive-images/background/handdrawn-style-blue-cute-education-math-lovely-powerpoint-background_a698b5341c__960_540.jpg);
+    background-size: cover;
+    background-repeat: none;
+}
